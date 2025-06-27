@@ -154,7 +154,7 @@ span{
 
   height:350px;
 
-  background-image: url("hero.jpg");
+  background-image: url("images/hero.jpg");
   background-size: cover;
   display: flex;
   justify-content: center;
@@ -259,7 +259,7 @@ ul a{
 .flogo{
   height: 50%;
   
-  background-image: url("logo.png");
+  background-image: url("images/logo.png");
   background-size: cover;
   background-repeat: no-repeat;
   height:40px;
